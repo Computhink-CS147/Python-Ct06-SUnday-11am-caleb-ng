@@ -28,4 +28,9 @@ service_charge = 10/100* total
 total=total + service_charge
 total=total -25 # use discount voucher
 print(total)
+gst=9/100+total
+print(gst)
+total2=total+gst
+print(total2)
+
 # Itinery(end of lesson 3)

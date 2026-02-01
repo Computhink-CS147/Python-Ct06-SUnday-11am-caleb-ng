@@ -100,4 +100,4 @@ with a space between them.
 Assign a name to the variable "user_name"
 Assign an integer to the variable "user_age"
 Use type conversion and string concatenation to print out
-"[user_name] is [user_age] years old."
+"[user_name] is [user_age] years old
