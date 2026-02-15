@@ -19,4 +19,8 @@ range (2-24)
 print (range)
 n1 =imput("give me a number")
 n2 = int(N1) # Convert
-    
+for count in range(10):
+#     Num=Num+count
+
+ 
+# print("the total is",num)
