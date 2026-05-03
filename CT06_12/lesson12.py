@@ -28,10 +28,25 @@
 #     num-=1
 # else:
 #     print("Happy new year!")
-while count > 0:
-    print(count)
-    count=count-1
-    if count ==5"
-        break
-else:
-    print("Happy new year!")
+# while count > 0:
+#     print(count)
+#     count=count-1
+#     if count ==5"
+#         break
+# else:
+#     print("Happy new year!")
+# import random
+# hidden=-1
+# reply=0
+# while not (hidden == reply):
+#     num1 = random.randint(1, 10)
+#     num2 = random.randint(1, 10)
+#     hidden = num1 + num2
+#     question = int(input("What is " + str(num1) + " + " + str(num2) + "? "))
+#     #print (question)
+#     reply=input(question)
+#     reply=int(reply)
+#     if hidden != reply:
+#         print("Wrong answer, try again.")
+#     else:
+#         print("Correct! The answer is " + str(hidden) + ".")
